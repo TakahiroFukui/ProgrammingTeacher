@@ -43,7 +43,7 @@ def communicate():
 
 
 # ユーザーインターフェイスの構築
-st.title("プログラミング講師」ボット")
+st.title("福井家の「プログラミング講師」")
 st.image("04_programming.png")
 st.write("プログラミングに関して、何でも聞いてください。")
 
